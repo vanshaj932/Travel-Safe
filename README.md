@@ -34,7 +34,7 @@ Our mission is to empower solo travelers with tools and information that help th
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Maps API**: Google Maps JavaScript API
-- **Authentication**: NextAuth.js
+- **Authentication**: Firebase
 - **Deployment**: Vercel
 
 ## 🛠️ Installation & Setup
